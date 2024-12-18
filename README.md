@@ -67,10 +67,3 @@ The project demonstrates the use of **Hadoop** for distributed data processing. 
 
 ### Visual Representation
 - A detailed diagram of the data pipeline is available in `pipeline_Hadoop.drawio`.
-
----
-
-### Future Improvements
-- Expand the PageRank implementation to handle larger datasets with more iterations.
-- Integrate other big data tools like **Apache Spark** for enhanced performance.
-- Include additional preprocessing scripts to handle different text formats.
